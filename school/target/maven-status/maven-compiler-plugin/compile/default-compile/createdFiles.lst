@@ -1,0 +1,6 @@
+com\school\school\dao\StudentDao.class
+com\school\school\services\StudentServiceimpl.class
+com\school\school\SchoolApplication.class
+com\school\school\controller\StudentController.class
+com\school\school\services\StudentService.class
+com\school\school\entities\Student.class
